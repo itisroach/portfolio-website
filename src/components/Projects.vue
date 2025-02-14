@@ -16,8 +16,8 @@ export default {
         </h1>
         <div class="grid grid-cols-2 lg:gap-10 gap-4">
             <div v-for="(project, idx) in projects" class="flex flex-col from-blue-700 to-gray-700 bg-gradient-to-br relative text-white lg:px-10 px-3 lg:py-5 py-2 rounded-xl" :data-aos="idx % 2 == 0 ? 'fade-right' : 'fade-left'" data-aos-duration="2000">
-                <p class="lg:text-3xl text-xl font-semibold">{{ project.title }}</p>
-                <p class="lg:text-lg break-all text-justify my-2 text-xs">{{ project.description }}</p>
+                <p class="lg:text-3xl text-xl lg:text-start text-center font-semibold">{{ project.title }}</p>
+                <p class="lg:text-lg my-2 lg:text-justify text-center text-xs">{{ project.description }}</p>
                 <div class="flex flex-wrap lg:gap-3 gap-0.5 mb-8 mt-auto">
                     <p v-for="tech in project.techs" class="bg-gray-700 lg:text-base text-xs lg:px-4 px-2 py-2 rounded-xl text-center">
                         {{ tech }}

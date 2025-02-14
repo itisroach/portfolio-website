@@ -21,7 +21,7 @@
         "techs": ["Python", "Django", "Django Rest Framework", "SQLite", "Tailwind", "Django Channels", "Web Socket", "JWT"]
     },
     {
-        "title": "Url Shortener",
+        "title": "URL Shortener",
         "link":"",
         "repo":"https://github.com/itisroach/url-shortener",
         "description": "it's a REST API application that you can shorten your links and share them with your friends.",
