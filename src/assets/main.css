@@ -1,0 +1,42 @@
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+
+
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #main {
+    display: grid;
+    grid-template-columns: 1.3fr 1.5fr;
+    padding: 0 2rem;
+    gap: 20px
+  }
+}
+
+.pointer {
+  animation: MoveUpDown 1s ease-in-out infinite;
+  position: absolute;
+}
+
+@keyframes MoveUpDown {
+  0%, 100% {
+    bottom: 0;
+  }
+  50% {
+    bottom: 100px;
+  }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Catcher",
+        "link":"",
+        "repo":"https://github.com/itisroach/catcher",
+        "description": "The Catcher is a Python-based & client based bot using Telethon to monitor Telegram channels, extract product prices, convert them, and store them in PostgreSQL. It also subscribes to new channels based on previous joins and generates reports.",
+        "techs": ["Python", "Telethon", "PostgreSQL"]
+    },
+    {
+        "title": "Roderfile",
+        "link":"",
+        "repo":"https://github.com/itisroach/roderfile",
+        "description": "a CLI tool that you can organize your files with",
+        "techs": ["GoLang"]
+    },
+    {
+        "title": "RoachGram",
+        "link":"https://amiraliashoori6.pythonanywhere.com/",
+        "repo":"https://github.com/itisroach/social-media",
+        "description": "this is a social media project that I built to improve my skills in django and django rest framework",
+        "techs": ["Python", "Django", "Django Rest Framework (DRF)", "SQLite", "Tailwind", "Django Channels", "Web Socket", "JWT"]
+    },
+    {
+        "title": "Url Shortener",
+        "link":"",
+        "repo":"https://github.com/itisroach/url-shortener",
+        "description": "it's a REST API application that you can shorten your links and share them with your friends.",
+        "techs": ["GoLang", "PostgreSQL", "JWT", "RESTful API"]
+    }
+]
