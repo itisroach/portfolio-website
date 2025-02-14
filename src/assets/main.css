@@ -11,16 +11,11 @@
 
 html, body {
   max-width: 100%;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 
 @media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
-
   #main {
     display: grid;
     grid-template-columns: 1.3fr 1.5fr;
