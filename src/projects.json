@@ -18,7 +18,7 @@
         "link":"https://amiraliashoori6.pythonanywhere.com/",
         "repo":"https://github.com/itisroach/social-media",
         "description": "this is a social media project that I built to improve my skills in django and django rest framework",
-        "techs": ["Python", "Django", "Django Rest Framework (DRF)", "SQLite", "Tailwind", "Django Channels", "Web Socket", "JWT"]
+        "techs": ["Python", "Django", "Django Rest Framework", "SQLite", "Tailwind", "Django Channels", "Web Socket", "JWT"]
     },
     {
         "title": "Url Shortener",
