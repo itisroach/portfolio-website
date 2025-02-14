@@ -11,7 +11,7 @@ AOS.init();
 </script>
 
 <template>
-  <a href="/files/Resume.pdf" download class="fixed bg-slate-700 opacity-45  hover:opacity-100 transition-all py-2 px-4 rounded-lg right-3 top-3 text-white text-sm">Download My Resume</a>
+  <a href="/files/Resume.pdf" download class="fixed z-60 bg-slate-700 opacity-45  hover:opacity-100 transition-all py-2 px-4 rounded-lg right-3 top-3 text-white text-sm">Download My Resume</a>
   <section id="main"> 
     <HeaderComp data-aos="fade-right" data-aos-duration="2000" />
     <Skills data-aos="fade-left" data-aos-duration="2000" />
