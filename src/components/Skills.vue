@@ -31,9 +31,10 @@
                     </ul>
                 </div>
                 <div class="from-gray-700 to-blue-700 bg-gradient-to-br lg:px-4 px-1 py-2 rounded-xl flex flex-col gap-3 lg:gap-6 items-center lg:hover:h-44 lg:h-12 h-10 hover:h-32 transition-all duration-500 overflow-hidden">
-                    <p class="lg:text-xl text-sm lg:font-bold font-semibold text-white from-blue-700 to-gray-700 bg-gradient">Control Version</p>
+                    <p class="lg:text-xl text-sm lg:font-bold font-semibold text-white from-blue-700 to-gray-700 bg-gradient">Tools</p>
                     <ul class="text-base font-semibold gap-6">
                         <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap ">Git</li>
+                        <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap ">Docker</li>
                     </ul>
                 </div>
             </div>
