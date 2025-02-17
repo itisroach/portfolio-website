@@ -25,7 +25,7 @@
                     <p class="lg:text-xl text-sm lg:font-bold font-semibold text-white from-blue-700 to-gray-700 bg-gradient">Database Systems</p>
                     <ul class="grid grid-cols-2 text-base font-semibold gap-6">
                         <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap ">PostgreSQL</li>
-                        <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap first-letter:">Monog DB</li>
+                        <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap first-letter:">Mongo DB</li>
                         <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap ">Redis</li>
                         <li class="bg-white bg-opacity-75 text-blue-700 text-center lg:p-2 p-1 lg:text-lg text-xs rounded-full text-nowrap ">MySQL</li>
                     </ul>
