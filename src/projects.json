@@ -1,5 +1,12 @@
 [
     {
+        "title": "Farshyar",
+        "link": "https://farshyaar.ir",
+        "repo": "https://github.com/itisroach/farshyar",
+        "description": "a Python client-based bot for extracting useful data from telegram channels for a carpet shop. This bot uses MariaDB for storing data and images. It also manages multiple request or task asynchronously. communication with database is by using connection pools. I got to mention that it uses APScheduler for scheduled task. The bot also supports deleting or updating a record whenever it was changed in the channel.",
+        "techs": ["Python", "Telethon", "MariaDB", "APScheduler"]
+    },
+    {
         "title": "Catcher",
         "link":"",
         "repo":"https://github.com/itisroach/catcher",
