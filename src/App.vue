@@ -5,13 +5,12 @@ import Projects from './components/Projects.vue';
 import Footer from './components/Footer.vue';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import Resume from '../public/files/Resume.pdf'
 AOS.init();
 
 </script>
 
 <template>
-  <a :href="Resume" download class="fixed z-60 bg-slate-700 opacity-45 focus:opacity-100 hover:opacity-100 transition-all py-2 px-4 rounded-lg right-2 lg:right-2 lg:text-sm  top-2 text-white text-xs">Download My Resume</a>
+  <a href="https://drive.google.com/file/d/1CWzmj0qpf25K9djtg7bhakMGp-8dDCrf/view?usp=drive_link" class="fixed z-60 bg-slate-700 opacity-45 focus:opacity-100 hover:opacity-100 transition-all py-2 px-4 rounded-lg right-2 lg:right-2 lg:text-sm  top-2 text-white text-xs">See My Resume</a>
   <section id="main"> 
     <HeaderComp data-aos="fade-right" data-aos-duration="2000" />
     <Skills data-aos="fade-left" data-aos-duration="2000" />
