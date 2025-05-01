@@ -9,10 +9,7 @@
                 Back-End Developer
             </p>
             <p class="text-justify lg:text-base text-xs">
-                I’m a back-end developer who loves to code and make new things. I’ve built some open-sourced projects with back-end 
-                technologies like Golang, Django and NodeJs that you can see on my GitHub account. Feel free to share 
-                your thoughts about my projects. I’m looking forward to joining a professional team with a positive 
-                environment which we can share our knowledge and learn from each other while enjoy working.
+                Self-taught backend developer with strong experience in Python and Golang. Passionate about building scalable systems, APIs, and automation tools. Proven ability to learn independently and deliver full-featured backend solutions. Seeking to contribute to a professional team and continue growing in a collaborative environment.
             </p>
             
             <ul class="flex pt-2 lg:mt-2 lg:pt-4 justify-start items-center w-fit rounded-3xl">
