@@ -14,6 +14,7 @@
                 your thoughts about my projects. I’m looking forward to joining a professional team with a positive 
                 environment which we can share our knowledge and learn from each other while enjoy working.
             </p>
+            
             <ul class="flex pt-2 lg:mt-2 lg:pt-4 justify-start items-center w-fit rounded-3xl">
                 <li class="hover:opacity-60 focus:opacity-60 lg:pr-4 lg:py-1 rounded-xl transition-all">
                     <a target="_blank" href="https://github.com/itisroach" class="flex flex-col justify-center items-center lg:gap-1">
@@ -49,6 +50,9 @@
                     </a>
                 </li>
             </ul>
+            <a href="https://drive.google.com/file/d/1mhLnlkF238eA7u7QcfIMIa8GngouWD4N/view?usp=drive_link" class="w-fit  mt-5 bg-slate-700 opacity-45 focus:opacity-100 hover:opacity-100 transition-all py-2 px-4 rounded-lg right-2 lg:right-2 lg:text-sm text-white text-xs">See My Resume</a>
         </div>
+        
     </header>
+    
 </template>
